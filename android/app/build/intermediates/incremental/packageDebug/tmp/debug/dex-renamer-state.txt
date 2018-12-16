@@ -1,0 +1,4 @@
+#Sat Dec 15 23:31:57 BRST 2018
+base.0=/home/robson/Documentos/professional projects/hackDasa-jornadaCliente/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
